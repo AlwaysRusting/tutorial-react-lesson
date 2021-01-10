@@ -3,7 +3,6 @@
   "files.trimTrailingWhitespace": true,
   "editor.renderWhitespace": "all",
   "css.lint.ieHack": "warning",
-  "javascript.implicitProjectConfig.checkJs": true,
   "typescript.updateImportsOnFileMove.enabled": "always",
   "editor.codeActionsOnSave": {
     "editor.formatOnSave": true

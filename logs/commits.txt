@@ -1,0 +1,2 @@
+000000 [init] first commit
+000001 [fix] ESLint/Prettierの設定修正
