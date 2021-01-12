@@ -11,6 +11,11 @@
   "[markdown]": {
     "files.trimTrailingWhitespace": false
   },
+  "markdownlint.config": {
+    "no-inline-html": {
+      "allowed_elements": ["details", "summary"]
+    }
+  },
   "eslint.packageManager": "yarn",
   "editor.defaultFormatter": "dbaeumer.vscode-eslint",
   "stylelint.enable": true
