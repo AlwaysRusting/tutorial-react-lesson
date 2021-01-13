@@ -1,0 +1,7 @@
+000000 [init] first commit
+000001 [update] README.md 更新
+000002 [update] README.md 更新（いったん完成）
+000003 [add] ESLint/Prettierの設定追加
+000004 [fix] README.md を修正
+000005 [fix] README.md の外部リンク記述を修正
+000006 [fix] コンフリクト修正
