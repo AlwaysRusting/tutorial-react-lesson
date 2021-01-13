@@ -94,7 +94,13 @@ Unpacking objects: 100% (48/48), 233.78 KiB | 110.00 KiB/s, done.
 さっき作ったプロジェクトのフォルダで、またコマンドプロンプトのコマンドを打つよ。ふたつのコマンドを続けて打つからちょっと気を付けてね🐰🥦
 
 ```console
+# PowerShell
 tutorial-react-lesson> yarn; yarn start
+```
+
+```console
+# コマンドプロンプト
+tutorial-react-lesson> yarn && yarn start
 ```
 
 このコマンドは、打った後が長いから今のうちに洗濯物でも干してこようね😊
