@@ -6,7 +6,8 @@
   "javascript.implicitProjectConfig.checkJs": true,
   "typescript.updateImportsOnFileMove.enabled": "always",
   "editor.codeActionsOnSave": {
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "source.fixAll.eslint": true
   },
   "[markdown]": {
     "files.trimTrailingWhitespace": false

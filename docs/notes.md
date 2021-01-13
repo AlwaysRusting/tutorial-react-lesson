@@ -33,3 +33,15 @@ npm i -g @react-native-community
 npm i -g create-react-app
 npm i -g expo-cli
 ```
+
+### ESLint/Prettierのインストール
+
+```console
+> yarn add -D prettier eslint eslint-config-prettier eslint-plugin-prettier
+```
+
+[https://qiita.com/jonakp/items/7d9f47c613c16cbf95aa](!https://qiita.com/jonakp/items/7d9f47c613c16cbf95aa)
+
+```console
+> yarn add -D eslint-plugin-react @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-config-airbnb eslint-plugin-jsx-a11y eslint-plugin-import
+```
