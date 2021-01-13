@@ -3,3 +3,4 @@
 000002 [update] README.md 更新（いったん完成）
 000003 [add] ESLint/Prettierの設定追加
 000004 [fix] README.md を修正
+000005 [fix] README.md の外部リンク記述を修正
