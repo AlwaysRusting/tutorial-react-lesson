@@ -7,3 +7,4 @@
 000006 [fix] コンフリクト修正
 000007 [fix] README.md の小修正
 000008 [add] Storybook 導入
+000009 [fix] Storybook の修正
