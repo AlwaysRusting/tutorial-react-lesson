@@ -16,5 +16,10 @@ indent_style = space
 insert_final_newline = true
 trim_trailing_whitespace = false
 
+[*.bat]
+charset = sjis
+end_of_line = crlf
+insert_final_newline = true
+
 [*.json]
 insert_final_newline = true

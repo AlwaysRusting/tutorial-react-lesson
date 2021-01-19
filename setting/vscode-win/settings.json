@@ -1,0 +1,85 @@
+{
+  "workbench.sideBar.location": "right",
+  "editor.fontFamily": "'Myrica M', Consolas, 'Courier New', monospace",
+  "files.autoGuessEncoding": true,
+  "window.zoomLevel": 0,
+  "git.enableSmartCommit": true,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.tabSize": 2,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Panda Syntax",
+  "todo-tree.tree.showScanModeButton": false,
+  "todo-tree.highlights.enabled": true,
+  "sync.gist": "17007dedfe276c065e3d564441a21a78",
+  "workbench.startupEditor": "newUntitledFile",
+  "material-icon-theme.activeIconPack": "react",
+  "material-icon-theme.files.associations": {
+    "actions.ts": "Redux-action",
+    "rootActions.ts": "Redux-action",
+    "reducers.ts": "Redux-reducer",
+    "rootReducers.ts": "Redux-reducer",
+    "states.ts": "Redux-store",
+    "StoreProvider.tsx": "Redux-store",
+    "CashProvider.tsx": "Redux-store",
+    "*.xlsm": "Table"
+  },
+  "material-icon-theme.folders.associations": {
+    "firebase": "Firebase",
+    "firebases": "Firebase",
+    "datasheet": "Database",
+    "datasheets": "Database",
+    "redux": "Redux-store",
+    "action": "Redux-actions",
+    "actions": "Redux-actions",
+    "reducer": "Redux-reducer",
+    "reducers": "Redux-reducer",
+    "store": "Redux-store",
+    "state": "Redux-store",
+    "states": "Redux-store",
+    "cashes": "Temp",
+    ".storybook": "Config"
+  },
+  "extensions.ignoreRecommendations": false,
+  "auto-close-tag.activationOnLanguage": [
+    "xml",
+    "php",
+    "blade",
+    "ejs",
+    "jinja",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "plaintext",
+    "markdown",
+    "vue",
+    "liquid",
+    "erb",
+    "lang-cfml",
+    "cfml",
+    "HTML (EEx)",
+    "HTML (Eex)",
+    "plist"
+  ],
+  "hediet.vscode-drawio.local-storage": "eyIuZHJhd2lvLWNvbmZpZyI6IntcImxhbmd1YWdlXCI6XCJcIixcImN1c3RvbUZvbnRzXCI6W3tcIm5hbWVcIjpcIlVidW50dVwiLFwidXJsXCI6XCJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9VWJ1bnR1XCJ9XSxcImxpYnJhcmllc1wiOlwiZ2VuZXJhbFwiLFwiY3VzdG9tTGlicmFyaWVzXCI6W1wiTC5zY3JhdGNocGFkXCJdLFwicGx1Z2luc1wiOltdLFwicmVjZW50Q29sb3JzXCI6W1wiRkZGRkZGXCIsXCIyQTJBMkFcIixcIjJhMmEyYVwiXSxcImZvcm1hdFdpZHRoXCI6XCIyNDBcIixcImNyZWF0ZVRhcmdldFwiOmZhbHNlLFwicGFnZUZvcm1hdFwiOntcInhcIjowLFwieVwiOjAsXCJ3aWR0aFwiOjExNjksXCJoZWlnaHRcIjo4Mjd9LFwic2VhcmNoXCI6dHJ1ZSxcInNob3dTdGFydFNjcmVlblwiOnRydWUsXCJncmlkQ29sb3JcIjpcIiNkMGQwZDBcIixcImRhcmtHcmlkQ29sb3JcIjpcIiM2ZTZlNmVcIixcImF1dG9zYXZlXCI6dHJ1ZSxcInJlc2l6ZUltYWdlc1wiOm51bGwsXCJvcGVuQ291bnRlclwiOjAsXCJ2ZXJzaW9uXCI6MTgsXCJ1bml0XCI6MSxcImlzUnVsZXJPblwiOmZhbHNlLFwidWlcIjpcIlwifSJ9",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.associations": {
+    "*.txt": "plaintext"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.formatOnSave": true,
+  "material-icon-theme.languages.associations": {}
+}
