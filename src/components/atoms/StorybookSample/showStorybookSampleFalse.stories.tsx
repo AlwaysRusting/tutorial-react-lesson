@@ -1,5 +1,5 @@
 import React from 'react';
-import Something from '.';
+import StorybookSample from '.';
 
 const props = {
   isSomething: false,
@@ -10,4 +10,4 @@ export default {
   title: 'Atoms',
 };
 
-export const showStorybookSampleFalse = () => <Something {...props} />;
+export const showStorybookSampleFalse = () => <StorybookSample {...props} />;
