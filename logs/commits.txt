@@ -8,3 +8,4 @@
 000007 [fix] README.md の小修正
 000008 [add] Storybook 導入
 000009 [fix] Storybook の修正
+000010 [fix] tsconfigの修復

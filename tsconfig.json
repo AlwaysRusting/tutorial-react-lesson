@@ -1,11 +1,8 @@
 {
   "compilerOptions": {
-    "target": "ESNEXT",
-    "module": "ESNext",
-    "lib": [
-      "DOM",
-      "ESNext"
-    ],
+    "target": "esnext",
+    "module": "esnext",
+    "lib": ["dom", "esnext"],
     "baseUrl": "./",
     "allowJs": true,
     "skipLibCheck": true,
@@ -17,15 +14,8 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-    "jsx": "react-jsx",
-    "noFallthroughCasesInSwitch": true
+    "jsx": "react"
   },
-  "include": [
-    "src"
-  ],
-  "exclude": [
-    "node_modules",
-    "dist",
-    "product"
-  ]
+  "include": ["src"],
+  "exclude": ["node_modules", "dist", "product"]
 }
