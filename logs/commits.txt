@@ -13,3 +13,4 @@
 000012 [add] 設定に関するファイルを追加
 000013 [update] コンポーネントのサンプルを更新
 000014 [add] InputField/SelectBox コンポーネントのサンプルを追加
+000015 [delete] electronのファイルを削除
