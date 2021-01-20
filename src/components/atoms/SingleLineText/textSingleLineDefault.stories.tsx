@@ -3,10 +3,10 @@ import SingleLineText, { Props } from '.';
 
 const props: Props = {
   text: 'Learn More',
-  left: 100,
-  top: 100,
+  left: 20,
+  top: 20,
   color: '#545454',
-  minWidth: 800,
+  minWidth: 500,
 };
 
 export default {
